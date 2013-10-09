@@ -13,7 +13,7 @@ import java.io.IOException;
 public class Main {
     public static void main(String[] args) throws IOException{
         ClueWindow realClueGame = new ClueWindow();
-        System.out.println("4th test.");
+        System.out.println("1st test.");
     }
     
 }
