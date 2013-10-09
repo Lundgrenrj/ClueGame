@@ -1,0 +1,13 @@
+Please wait untit everybody joins...
+
+It is your turn
+	Make a suggestion (0)
+	The NextPlayer has a card. Waiting until they show...(1) toOne
+	The NextPlayer doesn't have a card you suggested (continue)(1) toOne
+	The nextPlayer showed you (a card)(2) toOne
+
+Not your turn
+	Player suggested (suspect, weapon, room)(1) toAll but player's who's turn it is
+	You have a card, Select which card to show(1) toOne
+	You don't have a card(1)
+	playerA showed playerB a card(2)

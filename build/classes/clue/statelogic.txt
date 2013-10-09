@@ -1,0 +1,28 @@
+States:
+
+1. Waiting for players
+
+2. Your turn
+	You can click suggest
+		You can suggest
+			(Show Suspects, weapons, rooms to select)
+			You can click Suggestfinal
+			send suggested
+
+
+	You just Suggested
+		receive showCardsToPlayer
+			if shownCard > 0
+				Show cards from nextPlayer
+			else
+				Send Suggested to next player
+
+
+
+3. Not your turn
+	You can't click suggest
+
+	Player just suggested
+		receive suggested
+		Show cards to player if you are next player
+		send showCardsToPlayer

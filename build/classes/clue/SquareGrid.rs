@@ -1,0 +1,2 @@
+clue.SquareRx
+clue.SquareGrid
